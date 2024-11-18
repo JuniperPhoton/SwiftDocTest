@@ -1,0 +1,1 @@
+{"includedArchiveIdentifiers":["mylibrary.MyLibrary"],"interfaceLanguages":{"swift":[{"children":[{"title":"Functions","type":"groupMarker"},{"path":"\/documentation\/mylibrary\/foo()","title":"func foo()","type":"func"}],"path":"\/documentation\/mylibrary","title":"MyLibrary","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":2}}
