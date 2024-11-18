@@ -3,5 +3,11 @@
 
 /// Foo function.
 public func foo() {
-    
+    print("foo called")
+}
+
+public class Foo {
+    public func print() -> String {
+        return "foo"
+    }
 }
